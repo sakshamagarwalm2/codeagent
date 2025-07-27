@@ -78,7 +78,7 @@ export async function main() {
         },
     ];
     
-    const userQuery = 'Create a folder todo app with HTLM CSS and Js fully working.'
+    const userQuery = 'Create a folder todo app with HTLM CSS and Js inside the folder only and fully working.'
     messages.push({
         role: "user",
         content: userQuery,
