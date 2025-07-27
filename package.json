@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "groq-sdk": "^0.29.0"
+  },
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "type": "module"
+}
